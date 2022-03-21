@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #e5f6fa;
+}
+.dark {
+  background-color:rgb(15 23 42);
+}
+
+.laravel {
+  color: #f9322c;
+}
+.js {
+  color: #d7c215;
+}
+.vuejs {
+  color: #42b883;
+}
+.mysql {
+  color: #007593;
+}
+.postgre {
+  color: #336690;
+}
+
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+  background-color: #f5f5f5;
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: rgb(212 212 216);
+}
+
+.inline-flex img,
+video {
+  max-width: 3em;
+  height: auto;
+}
