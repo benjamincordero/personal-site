@@ -12,7 +12,7 @@
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"><i class="fa fa-calendar"></i>&nbsp;Septiembre 2010 - Junio 2016</time>
             <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Egresados con capacidad emprendedora, de liderazgo, de trabajo en equipo para la resolución de problemas, con pensamiento creativo, crítico, reflexivo; con conocimientos en el uso de nuevas tecnologías para su autoformación y como herramienta en su desarrollo profesional y con habilidades intelectuales para incorporar adecuadamente nuevos conocimientos. <br/><br/>
-Profesionales integrales, con sólidos conocimientos básicos al utilizar modelos matemáticos para aplicarlos al diseño y simulación de sistemas de. Asimismo planificar, coordinar, desarrollar y controlar sistemas adminstrativos dentro de una organización, verificando e instrumentando controles y/o rutinas de auditoría y seguridad de Informática.</p>
+Profesionales integrales, con sólidos conocimientos básicos al utilizar modelos matemáticos para aplicarlos al diseño y simulación de sistemas. Asimismo planificar, coordinar, desarrollar y controlar sistemas administrativos dentro de una organización, verificando e instrumentando controles y/o rutinas de auditoría y seguridad de Informática.</p>
           </li>
     </ol>
 

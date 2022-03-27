@@ -1,5 +1,6 @@
 <script>
   import profile_foto from "../assets/me.jpg";
+  import cv from "../assets/Benjamín_Cordero_CV.pdf";
 
   export default{
     data(){
@@ -46,12 +47,12 @@
         </li>
         <li>
           
-          <a href="https://t.me/benjamincordero" class="hover:text-teal-500 text-sm" target="_blank"><i class="fa-brands fa-telegram"></i>&nbsp;t.me/benjamincordero</a>
+          <a href="https://t.me/benjamincordero" class="hover:text-teal-500 text-sm" target="_blank"><i class="fa-brands fa-telegram"></i>&nbsp;@benjamincordero</a>
         </li>
       </ul>
     </div>
     <div class="flex justify-center">
-      <a href="javascript:;" class="px-4 py-2 my-5 text-center text-white bg-blue-600 xl:w-full rounded-xl drop-shadow-xl hover:bg-blue-500">
+      <a href="../../public/Benjamín_Cordero_CV.pdf" download class="px-4 py-2 my-5 text-center text-white bg-blue-600 xl:w-full rounded-xl drop-shadow-xl hover:bg-blue-500">
         <i class="fa fa-download"></i>&nbsp;Descargar CV
       </a>
     </div>

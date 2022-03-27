@@ -1,8 +1,8 @@
 <template>
   <div class="mb-6">
     <h1 class="text-2xl font-semibold text-gray-700 dark:text-gray-300">Sobre mí</h1>
-    <p class="text-sm dark:text-gray-400 text-gray-700">
-      Desarrollador web, con 7 años de experiencia trabajando para entes gubernamentales y empresas privadas. He desarrollado portales web informativos, aplicaciones a medida para distintas oficinas de administración, recursos humanos.
+    <p class="text-sm dark:text-gray-400 text-gray-700 border-b pb-8">
+      Desarrollador web, con 7 años de experiencia trabajando para entes gubernamentales y empresas privadas. He desarrollado portales web informativos, aplicaciones a medida para distintas oficinas de administración, recursos humanos, etc.
 
       <br>
       <br>
@@ -14,9 +14,7 @@
 
       <br />
       <br />
-      Como hobby me gusta entrenar calistenia, siempre me mantengo haciendo ejercicios. También me gusta leer para entretenerme sobretodo novelas de fantasía, encontraras una sección de Libros en esta página en la cual encontraras opiniones de libros que he leído por si te interesa. En la sección blog escribo de todo lo que me gusta también, películas, series, artículos de opinión, Tecnologia en general, hasta tips de entrenamiento que aplico, entre otros temas así que si quieres dar un vistazo bienvenido. 
-    </p>
-
+      Como hobby me gusta entrenar calistenia, siempre me mantengo haciendo ejercicios. También me gusta leer para entretenerme sobre todo novelas de fantasía, también ver películas y series.</p>
   </div>
   <main-skills />
   <div class="flex justify-end">

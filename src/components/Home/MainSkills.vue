@@ -1,5 +1,5 @@
 <template>
-  <h1 class="pt-1 pl-1 mb-2 text-xl font-semibold text-gray-700 dark:text-gray-300 border-t dark:border-t-0">
+  <h1 class="pt-1 pl-1 mb-2 text-xl font-semibold text-gray-700 dark:text-gray-300  dark:border-t-0">
     Mi Stack Principal
   </h1>
   <div class="grid md:grid-cols-2 gap-2">

@@ -2,7 +2,7 @@
   <div class="pb-5">
     <main-skills />
 
-    <h1 class="mt-5 text-xl font-bold text-gray-700 dark:text-gray-300">Otros..</h1>
+    <h1 class="mt-5 text-xl font-bold text-gray-700 dark:text-gray-300">Otras habilidades...</h1>
     <div class="mt-2 grid md:grid-cols-2 gap-2">
 
       <div class="flex p-4 bg-blue-100 hover:bg-gray-200 dark:bg-slate-900 rounded-xl gap-4">
