@@ -1,6 +1,5 @@
 <script>
   import profile_foto from "../assets/me.jpg";
-  import cv from "../assets/Benjamín_Cordero_CV.pdf";
 
   export default{
     data(){
@@ -52,7 +51,7 @@
       </ul>
     </div>
     <div class="flex justify-center">
-      <a href="../../public/Benjamín_Cordero_CV.pdf" download class="px-4 py-2 my-5 text-center text-white bg-blue-600 xl:w-full rounded-xl drop-shadow-xl hover:bg-blue-500">
+      <a href="/Benjamín_Cordero_CV.pdf" download class="px-4 py-2 my-5 text-center text-white bg-blue-600 xl:w-full rounded-xl drop-shadow-xl hover:bg-blue-500">
         <i class="fa fa-download"></i>&nbsp;Descargar CV
       </a>
     </div>
