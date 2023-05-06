@@ -7,15 +7,12 @@
 
       <div class="flex p-4 bg-blue-100 hover:bg-gray-200 dark:bg-slate-900 rounded-xl gap-4">
         <div class="inline-flex items-center">
-          <img
-            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
-            alt="mysql"
-          />
+          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" />
         </div>
         <div>
           <h1 class="font-bold text-gray-700 text-md dark:text-gray-400 postgres">Postgres</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-           También he trabajado con Postgres en proyectos grandes, y me desenvuelvo sin ningún problema.
+            I have also worked with Postgres in large-scale projects and I am able to work with it without any issues.
           </p>
         </div>
       </div>
@@ -27,7 +24,7 @@
         <div>
           <h1 class="font-bold text-red-600 dark:text-gray-300 text-md">Git</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            Tengo buena experiencia usando git en equipos grandes, haciendo pull request y resolviendo conflictos.
+            I have significant experience using git in large teams, making pull requests, and resolving conflicts.
           </p>
         </div>
       </div>
@@ -39,7 +36,8 @@
         <div>
           <h1 class="font-bold text-indigo-700 dark:text-blue-400 text-md">jQuery</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            Muchos se olvidan de JQuery, pero aún hay gran cantidad que lo usan y los cuales necesitan mantenimiento también. Si tienes un proyecto con jQuery, estoy preparedo para el.
+            Many people forget about jQuery, but there are still a large number of projects that use it and require
+            maintenance. If you have a project with jQuery, I am prepared to help with it.
           </p>
         </div>
       </div>
@@ -51,7 +49,8 @@
         <div>
           <h1 class="font-bold text-red-600 dark:text-gray-300 text-md">HTML</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            Html es lo básico, pero no es solos colocar divs everywhere. Manejo buenas prácticas de SEO y de semántica HTML.
+            HTML is the foundation, but it's not just about placing divs everywhere. I follow good SEO and HTML semantic
+            practices.
           </p>
         </div>
       </div>
@@ -63,7 +62,8 @@
         <div>
           <h1 class="font-bold text-teal-700 dark:text-gray-300 text-md">Python</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-           En python no soy un experto, pero también he hecho pequeños trabajo en este lenguaje y conozco su sintáis.
+            While I'm not an expert in Python, I have also completed small projects in this language and am familiar with
+            its syntax.
           </p>
         </div>
       </div>
@@ -74,7 +74,7 @@
         <div>
           <h1 class="font-bold text-green-900 dark:text-gray-300 text-md">Django</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            En Django es con el cual he practicado más mis habilidades en python desarrollando apis pequeñas.
+            Django is the framework within which I have honed my Python skills, having developed small APIs using it.
           </p>
         </div>
       </div>
@@ -86,7 +86,7 @@
         <div>
           <h1 class="font-bold text-indigo-900 dark:text-gray-300 text-md">Linux</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-           Para desarrollar me siento más cómodo usando Linux que windows. Y es el único sistema operativo que utilizo.
+            I feel more comfortable developing using Linux than Windows, and it is the only operating system that I use.
           </p>
         </div>
       </div>
@@ -99,7 +99,8 @@
         <div>
           <h1 class="font-bold text-gray-600 dark:text-gray-300 text-md">Docker</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            No soy un experto en Docker, pero trato de no molestar mucho a los SysAdmin, por lo tanto, he aprendido a resolver errores y configurar mis propios ambientes de desarrollo sin problemas.          
+            While I'm not an expert in Docker, I try not to bother the SysAdmins too much, so I have learned to
+            troubleshoot errors and configure my own development environments without issues.
           </p>
         </div>
       </div>
@@ -111,7 +112,9 @@
         <div>
           <h1 class="font-bold text-teal-600 dark:text-gray-300 text-md">Tailwind</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            Si inspeccionaste este sitio te habrás dado cuenta de que la base del css es Tailwind. Me parece una librería que ayuda mucho para diseñar dejándote mucho control, y que no se parezca a otros.
+            If you have inspected this site, you may have noticed that the foundation of the CSS is Tailwind. I find it to
+            be a library that provides a lot of design control, while allowing for a unique appearance unlike other
+            libraries.
           </p>
         </div>
       </div>
@@ -123,7 +126,7 @@
         <div>
           <h1 class="font-bold text-blue-900 dark:text-gray-300 text-md">Bootstrap</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            Manejo Bootstrap sin problemas, usando grid, flex y sus demás características nuevas.
+            I have no problem using Bootstrap, making use of its grid, flexbox, and other new features.
           </p>
         </div>
       </div>
@@ -135,7 +138,8 @@
         <div>
           <h1 class="font-bold text-blue-600 dark:text-gray-300 text-md">CSS</h1>
           <p class="text-xs text-gray-600 dark:text-gray-300">
-            También hago css sin ayuda de librerías. Layouts propios usando grid, flex, también aplico responsive desing en mis diseños, variables, etc.
+            I also create CSS without the help of libraries, using my own layouts with grid, flexbox, and applying
+            responsive design in my designs, as well as using variables and other CSS features.
           </p>
         </div>
       </div>
