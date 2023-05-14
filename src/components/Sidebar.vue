@@ -1,16 +1,8 @@
-<script>
-import profile_foto from "../assets/me.jpg";
 
-export default {
-  data() {
-    return { profile_foto: profile_foto }
-  }
-}
-</script>
 <template>
   <div class="flex flex-col gap-3">
     <div class="flex justify-center">
-      <img class="mt-6 xl:w-2/4 rounded-3xl drop-shadow-xl" :src="profile_foto" alt="profile_foto" />
+      <img class="mt-6 xl:w-2/4 rounded-3xl drop-shadow-xl" src="me.png" alt="profile_foto" />
     </div>
     <div class="mt-3">
       <p class="text-2xl text-center text-slate-900 dark:text-gray-50">
