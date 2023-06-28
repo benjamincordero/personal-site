@@ -2,7 +2,7 @@
 <template>
   <div class="flex flex-col gap-3">
     <div class="flex justify-center">
-      <img class="mt-6 xl:w-2/4 rounded-full drop-shadow-xl" src="/me.png" alt="profile_foto" />
+      <img class="mt-6 xl:w-2/4 rounded-full drop-shadow-xl" src="/me.jpg" alt="profile_foto" />
     </div>
     <div class="mt-3">
       <p class="text-2xl text-center text-slate-900 dark:text-gray-50">
