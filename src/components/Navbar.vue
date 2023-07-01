@@ -7,7 +7,7 @@
 
         <Transition name="slide-fade">
           <div class="flex  gap-4" v-if="show_navbar">
-            <router-link to="/" class="hover:text-yellow-500">Sobre mí</router-link>
+            <router-link to="/" class="hover:text-yellow-500">About Me</router-link>
             <router-link to="/skills" class="hover:text-yellow-500">Skills</router-link>
             <router-link to="/contact" class="hover:text-yellow-500 hidden">Contacto</router-link>
             <a href="javascript:;" class="hidden hover:text-yellow-500">Blog</a>

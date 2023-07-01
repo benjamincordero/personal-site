@@ -38,8 +38,7 @@
   <main-skills />
   <div class="flex justify-end">
     <router-link to="/skills"
-      class="px-6 py-2 font-semibold text-gray-700 dark:text-gray-300  hover:text-blue-600 drop-shadow-lg rounded-xl">Ver
-      más skills</router-link>
+      class="px-6 py-2 font-semibold text-gray-700 dark:text-gray-300  hover:text-blue-600 drop-shadow-lg rounded-xl">More...</router-link>
   </div>
   <experience />
   <education />
