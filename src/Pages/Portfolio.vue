@@ -1,7 +1,7 @@
 <template>
   <div class="mt-4">
     <h1 class="text-2xl font-semibold text-gray-700">Portfolio</h1>
-    <p class="text-sm text-gray-700">
+    <div class="text-sm text-gray-700">
       Lamentablemente muchos de los sitemas que he desarrollado son privados y no puedo exponerlos aqui, de hecho muchos
       no están en internet porque funcionan en servidores privados. Pero aqui te colocaré algunos. <br>
       Igualmente este sitio está completamente hechor por mi, tanto el front como el backend, y en mi <a
@@ -18,5 +18,5 @@
 
     </div>
 
-  </p>
+  </div>
 </div></template>

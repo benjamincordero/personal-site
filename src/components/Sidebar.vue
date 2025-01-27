@@ -20,10 +20,6 @@
     <div id="info" class="pt-2">
       <ul class="flex flex-wrap justify-center px-6 text-xs text-gray-600 dark:text-gray-400 xl:flex-col gap-3">
         <li>
-          <a href="https://twitter.com/webonada" class="hover:text-blue-500 text-sm" target="_blank"><i
-              class="fa-brands fa-twitter"></i>&nbsp;@webonada</a>
-        </li>
-        <li>
           <a href="https://github.com/benjamincordero" class="hover:text-gray-800 text-sm dark:hover:text-gray-500"
             target="_blank"><i class="fa-brands fa-github"></i>&nbsp;@benjamincordero</a>
         </li>
